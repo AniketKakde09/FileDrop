@@ -1,5 +1,3 @@
-Windows   
-filedrop.exe
+### Windows : filedrop.exe
 -------------------------
-Linux   
-filedrop
+### Linux : filedrop
