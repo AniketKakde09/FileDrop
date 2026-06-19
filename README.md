@@ -1,2 +1,5 @@
-Windows
-Linux
+Windows   
+filedrop.exe
+-------------------------
+Linux   
+filedrop
