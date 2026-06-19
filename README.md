@@ -1,3 +1,3 @@
-### Windows : filedrop.exe
+### Windows : filedrop-windows-amd64.exe
 -------------------------
-### Linux : filedrop
+### Linux : filedrop-linux-amd64
